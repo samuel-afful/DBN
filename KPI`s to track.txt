@@ -1,0 +1,14 @@
+1.Average appointmet for a specific procedure
+2.Average appointment time for a specific procedure
+3.Patient retention
+3.re-appointment rate
+5.appointment no show rate
+6.Treatment success
+
+
+Choosing Which Data to Track
+1.Patient Demography(location, gender ,age, insurance)
+2.Appointment (duration, show, no-show)
+3.Treatment and Procedure 
+4.Financial≤
+5.Staff Performance(customer rating, treatment given)

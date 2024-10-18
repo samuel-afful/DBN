@@ -1,0 +1,13 @@
+EmployeeRole
+Employee
+Address
+EmployeeRoleEmployeeRoles_EmployeeEmployees
+Procedure
+Document
+Patient
+Invoice
+Appointment
+Doctor
+ProcedureItem
+InvoiceItem
+
